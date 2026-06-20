@@ -9,7 +9,7 @@
     }
   ],
   "apiVersion": 15,
-  "referencePromeVersion": "1.5.2.1",
+  "referencePromeVersion": "1.5.2.2",
   "downloadUrl": "https://raw.githubusercontent.com/ShoOtaku/XSZYYS_PR_ACR/main/XSZYYS/XSZYYS.zip",
-  "sha256": "8b0b10c6a6a13cdabfc274af71c223404a7a596f839b78ab413e344aea358c9f"
+  "sha256": "d9ce63d63e039df2845ea31a2f64ebd6fd6e4ce3c72b59721d53e5018a2773fa"
 }
