@@ -1,0 +1,15 @@
+{
+  "author": "XSZYYS",
+  "version": "1.0.0",
+  "description": "测试中",
+  "supportedJobs": [
+    {
+      "job": "WAR",
+      "contentScope": "HighEnd"
+    }
+  ],
+  "apiVersion": 15,
+  "referencePromeVersion": "1.5.2.1",
+  "downloadUrl": "https://raw.githubusercontent.com/ShoOtaku/XSZYYS_PR_ACR/main/XSZYYS/XSZYYS.zip",
+  "sha256": "8b0b10c6a6a13cdabfc274af71c223404a7a596f839b78ab413e344aea358c9f"
+}
