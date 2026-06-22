@@ -4,6 +4,10 @@
   "description": "测试中",
   "supportedJobs": [
     {
+      "job": "DRK",
+      "contentScope": "HighEnd"
+    },
+    {
       "job": "WAR",
       "contentScope": "HighEnd"
     }
@@ -11,5 +15,5 @@
   "apiVersion": 15,
   "referencePromeVersion": "1.5.2.6",
   "downloadUrl": "https://raw.githubusercontent.com/ShoOtaku/XSZYYS_PR_ACR/main/XSZYYS/XSZYYS.zip",
-  "sha256": "33a381fd71f2ae5572ce3937368f834aeb3c2b5ebddef803214726042c3ef26c"
+  "sha256": "ff0a252527297959956898f414b68f577d0aaa276a4b798ba2472dffa662abe0"
 }
