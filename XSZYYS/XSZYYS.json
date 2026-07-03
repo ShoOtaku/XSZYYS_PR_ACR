@@ -8,6 +8,10 @@
       "contentScope": "All"
     },
     {
+      "job": "PLD",
+      "contentScope": "All"
+    },
+    {
       "job": "WAR",
       "contentScope": "All"
     }
@@ -15,5 +19,5 @@
   "apiVersion": 15,
   "referencePromeVersion": "1.5.4.1",
   "downloadUrl": "https://raw.githubusercontent.com/ShoOtaku/XSZYYS_PR_ACR/main/XSZYYS/XSZYYS.zip",
-  "sha256": "a7310840bd81c3ff040520d83ad547fa7c2548930eaa0aa0c12eddf5f8062d0d"
+  "sha256": "80cbe0f15751393c34caa2feb5f7c02fa0603853eb2240d9fc929f8e471c22b7"
 }
