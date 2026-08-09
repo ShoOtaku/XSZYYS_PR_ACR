@@ -1,6 +1,6 @@
 {
   "author": "XSZYYS",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "测试中",
   "supportedJobs": [
     {
@@ -19,5 +19,5 @@
   "apiVersion": 15,
   "referencePromeVersion": "1.5.2.1",
   "downloadUrl": "https://raw.githubusercontent.com/ShoOtaku/XSZYYS_PR_ACR/main/XSZYYS/XSZYYS.zip",
-  "sha256": "3c6dead6b5f1859fab9b795eeb8f72804c8ba33079e2b03690f6b501107a478a"
+  "sha256": "dc32f3397d30c12eea6722928ff9ad3c6ed56d375c14083b6269084d1f785168"
 }
