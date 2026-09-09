@@ -1,8 +1,12 @@
 {
   "author": "XSZYYS",
-  "version": "1.1.9",
+  "version": "1.2.0",
   "description": "测试中",
   "supportedJobs": [
+    {
+      "job": "BST",
+      "contentScope": "All"
+    },
     {
       "job": "DRK",
       "contentScope": "All"
@@ -19,5 +23,5 @@
   "apiVersion": 15,
   "referencePromeVersion": "1.5.9.8",
   "downloadUrl": "https://raw.githubusercontent.com/ShoOtaku/XSZYYS_PR_ACR/main/XSZYYS/XSZYYS.zip",
-  "sha256": "62914e89dfd2613d2ef3f7f38e684ff3b2044b9a60a250a4b310ce1b1d0948a2"
+  "sha256": "9e2cedede832fc8abd5cf39eb7214080cbdc28913dda85c4d9f7e3f164509e0e"
 }
