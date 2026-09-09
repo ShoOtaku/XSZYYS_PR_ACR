@@ -1,7 +1,7 @@
 {
   "author": "XSZYYS",
   "version": "1.1.5",
-  "description": "測試中",
+  "description": "支持暗黑骑士、骑士、战士全场景",
   "supportedJobs": [
     {
       "job": "DRK",
