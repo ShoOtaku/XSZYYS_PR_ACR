@@ -1,7 +1,7 @@
 {
   "author": "XSZYYS",
   "version": "1.2.0",
-  "description": "测试中",
+  "description": "支持暗黑骑士、骑士、战士全场景，驯兽师初版",
   "supportedJobs": [
     {
       "job": "BST",
